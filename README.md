@@ -36,21 +36,15 @@ There are three notebooks available in this repository:
  **---------------Click the image below to play---------------Raw Video---------------**
 [![Yolo v8 Demo Prediction Video Raw](/images/Capture.PNG)](https://www.youtube.com/watch?v=aqQCqUTpJwk&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=2)
 
-1. YOLOv8: This notebook contains the implementation of YOLOv8 for object detection from drone for surveillance.
-2. YOLOv5: This notebook contains the implementation of YOLOv5 for object detection from drone for surveillance.
-3. YOLOv3: This notebook contains the implementation of YOLOv3 for object detection from drone for surveillance.
-
-To use any of the notebooks, open the corresponding notebook in your preferred environment and follow the instructions to train and test the models.
+YOLOv8, YOLOv5, YOLOv3: notebooks contains the implementations for object detection from drone surveillance. To use any of the notebooks, open the corresponding notebook in your preferred environment and follow the instructions to train and test the models.
 
 **---------------Click the image below to play---------------Detected Video---------------**
 [![Yolo v8 Demo Prediction Video Result](/images/Capture1.PNG)](https://www.youtube.com/watch?v=iJYsdUKSVtI&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=3)
 
 # Dataset
-The dataset used in this project is available at Papers with Code (https://paperswithcode.com/dataset/visdrone) website.. Please refer to the individual notebooks for more details on the specific datasets used.
-
-FYI, all the notebooks in this repository can be run by just pulling the repository and running on Google Colab, Kaggle, or a good GPU computer.
-
-Feel free to customize the above format to fit your specific needs. Don't forget to add the necessary information and details for each of the notebooks in your repository. Good luck with your project!
+- The dataset used in this project is available at Papers with Code (https://paperswithcode.com/dataset/visdrone) website.. Please refer to the individual notebooks for more details on the specific datasets used.
+- All the notebooks in this repository can be run by just pulling the repository and running on Google Colab, Kaggle, or a good GPU computer.
+- Feel free to customize the above format to fit your specific needs. Don't forget to add the necessary information and details for each of the notebooks in your repository!
 
 ## Models
 
