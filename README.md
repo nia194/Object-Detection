@@ -98,3 +98,12 @@ In conclusion, we compared several object detection models using the mean averag
 - Harika
 - Ashish Gurung
 - Safal Rijal
+
+
+### Links
+- Demo (Moving Object Detection) - https://www.youtube.com/watch?v=iJYsdUKSVtI
+- Github Link - https://github.com/nia194/Object-Detection
+- Research Paper (Applied).pdf - https://github.com/nia194/Object-Detection/blob/main/Research%20Paper%20(Applied).pdf
+- Presentation (Applied).pdf - https://github.com/nia194/Object-Detection/blob/main/Presentation%20(Applied).pdf
+- Presentation (Theoretical).pdf - https://github.com/nia194/Object-Detection/blob/main/Presentation%20(Theoretical).pdf
+- Papers with Code (VisDrone Dataset) - https://paperswithcode.com/dataset/visdrone
